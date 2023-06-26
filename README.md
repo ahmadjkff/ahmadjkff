@@ -1,8 +1,5 @@
-### Hi there 👋
+### Hi, Welcome to Ahmad Jamil's profile 👋
 
-
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently studying at JUST university on ...
 - Languages I've learned 🛠 : 🇨‌➕➕,🧑‍💻🇵‌🇾‌🐍
