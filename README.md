@@ -35,7 +35,7 @@
 <p align="center">Let's connect and learn together!</p>
 
 <p align="center">
-  <a href="[(https://www.just.edu.jo/Pages/Default.aspx)]">
+  <a href="[https://www.just.edu.jo/Pages/Default.aspx]">
     <img src="https://img.shields.io/badge/University-Profile-blue?style=for-the-badge" alt="University Profile">
   </a>
   <a href="mailto:[ahmadjkff1@gmail.com]">
