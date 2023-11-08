@@ -53,14 +53,16 @@
 
 <p align="center">Feel free to reach out to me through these channels!</p>
 
-<!-- Place the first GIF on the left -->
-<div style="float: left; padding-right: 20px;">
-  <img src="https://media.giphy.com/media/dBlZwFc1QjzXseX7aT/giphy.gif" alt="Programming GIF">
-</div>
+<div style="display: flex; justify-content: space-between;">
+  <!-- First GIF on the left -->
+  <div>
+    <img src="https://media.giphy.com/media/dBlZwFc1QjzXseX7aT/giphy.gif" alt="Programming GIF">
+  </div>
 
-<!-- Place the second GIF on the right -->
-<div style="float: right;">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Programming GIF">
+  <!-- Second GIF on the right -->
+  <div>
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Programming GIF">
+  </div>
 </div>
 
 
