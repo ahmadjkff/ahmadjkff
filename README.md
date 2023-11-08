@@ -35,7 +35,7 @@
 
 <p align="center">
   <a href="https://www.just.edu.jo/">
-    <img src="URL_TO_YOUR_UNIVERSITY_LOGO" alt="University Logo" width="100">
+    <img src="https://www.just.edu.jo/ar/NewsCenter/PublishingImages/LOGO%20JUST.png" alt="University Logo" width="100">
     <br>
   </a>
   <a href="mailto:ahmadjkff1@gmail.com">
