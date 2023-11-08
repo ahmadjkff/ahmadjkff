@@ -34,7 +34,7 @@
 <p align="center">Let's connect and learn together!</p>
 
 <p align="center">
-  <a href="https://www.just.edu.jo/">
+  <a href="https://www.just.edu.jo/" alt="JUST URL">
     <br>
   </a>
   <a href="mailto:ahmadjkff1@gmail.com">
