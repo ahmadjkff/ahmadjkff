@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm [Ahmad Alfakori]! 👋</h1>
 
-<p align="center">I'm a student at [JUST university] and a beginner software enthusiast. I'm currently learning <strong>JavaScript, HTML,CSS, Git, and GitHub</strong> while having proficiency in <strong>C++, Java, Python</strong>. I'm on a journey to expand my skills and knowledge.</p>
+<p align="center">I'm a student at [JUST University](https://www.just.edu.jo/Pages/Default.aspx) and a beginner software enthusiast. I'm currently learning <strong>JavaScript, HTML,CSS, Git, and GitHub</strong> while having proficiency in <strong>C++, Java, Python</strong>. I'm on a journey to expand my skills and knowledge.</p>
 
 <h2 align="center">💻 Technologies & Tools</h2>
 
@@ -23,10 +23,9 @@
 </ul>
 
 <h2 align="center">🚀 My Projects</h2>
-<p align="center">I'm still learning, But still I have some small projects:</p>
+<p align="center">I'm don't have any big project yet, But I'm working on it 💪</p>
 
-
-<p align="center">I'm excited to start building big projects soon!</p>
+<p align="center">I'm excited to start building projects soon!</p>
 
 <p align="center">Stay tuned for my upcoming creations!</p>
 
@@ -35,10 +34,10 @@
 <p align="center">Let's connect and learn together!</p>
 
 <p align="center">
-  <a href="[https://www.just.edu.jo/Pages/Default.aspx]">
+  <a href="https://www.just.edu.jo/Pages/Default.aspx">
     <img src="https://img.shields.io/badge/University-Profile-blue?style=for-the-badge" alt="University Profile">
   </a>
-  <a href="mailto:[ahmadjkff1@gmail.com]">
+  <a href="mailto:ahmadjkff1@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
   </a>
 </p>
