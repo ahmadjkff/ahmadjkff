@@ -34,9 +34,6 @@
 <p align="center">Let's connect and learn together!</p>
 
 <p align="center">
-  <a href="https://www.just.edu.jo/">
-    <br>
-  </a>
   <a href="mailto:ahmadjkff1@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
   </a>
