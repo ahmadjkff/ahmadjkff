@@ -37,7 +37,6 @@
   <a href="https://www.just.edu.jo/Pages/Default.aspx">
     <img src="URL_TO_YOUR_UNIVERSITY_LOGO" alt="University Logo" width="100">
     <br>
-    Visit My University Profile
   </a>
   <a href="mailto:ahmadjkff1@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
