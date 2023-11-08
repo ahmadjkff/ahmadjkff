@@ -23,7 +23,7 @@
 </ul>
 
 <h2 align="center">🚀 My Projects</h2>
-<p align="center">I'm don't have any big projects yet, but I'm working on it 💪</p>
+<p align="center">I don't have any big projects yet, but I'm working on it 💪</p>
 
 <p align="center">I'm excited to start building projects soon!</p>
 
@@ -34,8 +34,10 @@
 <p align="center">Let's connect and learn together!</p>
 
 <p align="center">
-  <a herf="https://www.just.edu.jo/Pages/Default.aspx">
-    <a/>
+  <a href="https://www.just.edu.jo/">
+    <img src="URL_TO_YOUR_UNIVERSITY_LOGO" alt="University Logo" width="100">
+    <br>
+  </a>
   <a href="mailto:ahmadjkff1@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
   </a>
