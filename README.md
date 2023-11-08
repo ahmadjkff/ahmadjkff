@@ -53,13 +53,16 @@
 
 <p align="center">Feel free to reach out to me through these channels!</p>
 
-<p align="center">
+<!-- Place the first GIF on the left -->
+<div style="float: left; padding-right: 20px;">
   <img src="https://media.giphy.com/media/dBlZwFc1QjzXseX7aT/giphy.gif" alt="Programming GIF">
-</p>
+</div>
 
-<p align="center">
-  <a href="https://giphy.com/gifs/FullBrain-code-coding-programmer-dBlZwFc1QjzXseX7aT">via GIPHY</a>
-</p>
+<!-- Place the second GIF on the right -->
+<div style="float: right;">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Programming GIF">
+</div>
+
 
 
 
