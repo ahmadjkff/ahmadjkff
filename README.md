@@ -56,12 +56,12 @@
 <div style="display: flex; justify-content: space-between;">
   <!-- First GIF on the left with reduced dimensions -->
   <div>
-    <img src="https://media.giphy.com/media/dBlZwFc1QjzXseX7aT/giphy.gif" alt="Programming GIF" width="100" height="100">
+    <img src="https://media.giphy.com/media/dBlZwFc1QjzXseX7aT/giphy.gif" alt="Programming GIF" width="150" height="150">
   </div>
 
   <!-- Second GIF on the right with reduced dimensions -->
   <div>
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Programming GIF" width="100" height="100">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Programming GIF" width="150" height="150">
   </div>
 </div>
 
