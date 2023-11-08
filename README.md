@@ -1,39 +1,44 @@
-# Hello, I'm [Your Name]! 👋
+<h1 align="center">Hello, I'm [Your Name]! 👋</h1>
 
-I'm a beginner software engineer passionate about [mention your interests and areas of expertise, e.g., web development, data science, mobile app development]. I love to learn, code, and solve problems. 
+<p align="center">I'm a student at [Your University Name] and a beginner software enthusiast. I'm currently learning <strong>JavaScript, HTML, Git, and GitHub</strong> while having proficiency in <strong>C++, Java, Python</strong>. I'm on a journey to expand my skills and knowledge.</p>
 
-## 💻 Technologies & Tools
+<h2 align="center">💻 Technologies & Tools</h2>
 
-Here are some of the technologies and tools I'm familiar with:
+<p align="center">Here are some of the technologies and tools I'm familiar with:</p>
 
-- Programming Languages: [List the languages you know, e.g., Python, JavaScript, Java]
-- Frontend Development: [List relevant libraries and frameworks, e.g., HTML, CSS, React]
-- Backend Development: [List relevant technologies, e.g., Node.js, Django]
-- Databases: [List databases you're familiar with, e.g., MongoDB, SQL]
-- Version Control: [e.g., Git]
-- Other Tools: [List any other tools or technologies you're comfortable with]
+<ul align="center">
+  <li>Programming Languages: C++, Java, Python</li>
+  <li>Web Development: <strong>JavaScript, HTML</strong></li>
+  <li>Version Control: <strong>Git</strong></li>
+</ul>
 
-## 🌱 I'm Currently Learning
+<h2 align="center">🌱 I'm Currently Learning</h2>
 
-I'm always looking to improve my skills. Right now, I'm focusing on:
+<p align="center">I'm actively learning and honing my skills:</p>
 
-- [Mention what you're currently learning or working on, e.g., mastering React, learning data analysis with Python]
+<ul align="center">
+  <li><strong>JavaScript</strong>: Mastering the art of web development.</li>
+  <li><strong>HTML</strong>: Building the foundation of the web.</li>
+  <li><strong>Git & GitHub</strong>: Becoming a version control pro.</li>
+</ul>
 
-## 🚀 My Projects
+<h2 align="center">🚀 My Projects</h2>
 
-Here are a few projects I've worked on:
+<p align="center">I'm excited to start building projects soon!</p>
 
-- [Project 1: Provide a brief description and link]
-- [Project 2: Provide a brief description and link]
-- [Project 3: Provide a brief description and link]
+<p align="center">Stay tuned for my upcoming creations!</p>
 
-Feel free to explore my repositories to see more of my work!
+<h2 align="center">📫 Get in Touch</h2>
 
-## 📫 Get in Touch
+<p align="center">Let's connect and learn together!</p>
 
-- LinkedIn: [Your LinkedIn Profile URL]
-- Email: [Your Email Address]
-- Twitter: [Your Twitter Handle]
+<p align="center">
+  <a href="[Your University Profile URL]">
+    <img src="https://img.shields.io/badge/University-Profile-blue?style=for-the-badge" alt="University Profile">
+  </a>
+  <a href="mailto:[Your Email Address]">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+</p>
 
-Let's connect and collaborate!
-
+<p align="center">Feel free to reach out to me through these channels!</p>
