@@ -53,6 +53,6 @@
 
 <p align="center">Feel free to reach out to me through these channels!</p>
 
-<p align="center">
+<p align="left">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Programming GIF">
 </p>
