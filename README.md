@@ -34,21 +34,17 @@
 <p align="center">Let's connect and learn together!</p>
 
 <p align="center">
-  <a href="https://www.just.edu.jo/">
-    <img src="https://www.just.edu.jo/ar/NewsCenter/PublishingImages/LOGO%20JUST.png" alt="University Logo" width="100">
-    <br>
-  </a>
   <a href="mailto:ahmadjkff1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
+    <img src="https://img.shields/IO/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
   </a>
   <a href="https://instagram.com/ahmadjkff?igshid=ajMyZWVucnM2M21o">
-    <img src="https://img.shields.io/badge/Instagram-Follow-blue?style=for-the-badge&logo=instagram" alt="Instagram">
+    <img src="https://img.shields/IO/badge/Instagram-Follow-blue?style=for-the-badge&logo=instagram" alt="Instagram">
   </a>
   <a href="wa.me/971567510918">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp" alt="WhatsApp">
+    <img src="https://img.shields/IO/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp" alt="WhatsApp">
   </a>
   <a href="wa.me/962799635582">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp" alt="WhatsApp">
+    <img src="https://img.shields/IO/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp" alt="WhatsApp">
   </a>
 </p>
 
