@@ -55,5 +55,5 @@
 
 <!-- Add a programming-related GIF below -->
 <p align="center">
-  <img src="[https://media.giphy.com/media/xT9IgzoKnD0Jv4x9nO/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw0mBlj4c1YkNfRSLkzw4P4j&ust=1699553231362000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCWzKb_tIIDFQAAAAAdAAAAABAE)https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw0mBlj4c1YkNfRSLkzw4P4j&ust=1699553231362000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCWzKb_tIIDFQAAAAAdAAAAABAE" alt="Programming GIF">
+  <img src="<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>" alt="Programming GIF">
 </p>
