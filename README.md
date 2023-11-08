@@ -53,6 +53,20 @@
 
 <p align="center">Feel free to reach out to me through these channels!</p>
 
-<p align="left">
+<p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Programming GIF">
+</p>
+
+<!-- Add another programming-related GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Programming GIF">
+</p>
+
+<!-- Add the GIPHY GIF -->
+<p align="center">
+  <iframe src="https://giphy.com/embed/dBlZwFc1QjzXseX7aT" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+</p>
+
+<p align="center">
+  <a href="https://giphy.com/gifs/FullBrain-code-coding-programmer-dBlZwFc1QjzXseX7aT">via GIPHY</a>
 </p>
