@@ -35,7 +35,6 @@
 
 <p align="center">
   <a href="https://www.just.edu.jo/">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.just.edu.jo%2Far%2FNewsCenter%2FPublishingImages%2FForms%2FDispForm.aspx%3FID%3D1949&psig=AOvVaw2OP-R3Ga0Z0zUVfcmsnn-Y&ust=1699554983335000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKit8-qFtYIDFQAAAAAdAAAAABAE" alt="University Logo" width="100">
     <br>
   </a>
   <a href="mailto:ahmadjkff1@gmail.com">
