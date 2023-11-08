@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm [Ahmad Alfakori]! 👋</h1>
 
-<p align="center">I'm a student at [JUST University](https://www.just.edu.jo/Pages/Default.aspx) and a beginner software enthusiast. I'm currently learning <strong>JavaScript, HTML, CSS, Git, and GitHub</strong> while having proficiency in <strong>C++, Java, Python</strong>. I'm on a journey to expand my skills and knowledge.</p>
+<p align="center">I'm a student at [JUST University](https://www.just.edu.jo/) and a beginner software enthusiast. I'm currently learning <strong>JavaScript, HTML, CSS, Git, and GitHub</strong> while having proficiency in <strong>C++, Java, Python</strong>. I'm on a journey to expand my skills and knowledge.</p>
 
 <h2 align="center">💻 Technologies & Tools</h2>
 
@@ -34,7 +34,7 @@
 <p align="center">Let's connect and learn together!</p>
 
 <p align="center">
-  <a href="https://www.just.edu.jo/Pages/Default.aspx">
+  <a href="https://www.just.edu.jo/">
     <img src="URL_TO_YOUR_UNIVERSITY_LOGO" alt="University Logo" width="100">
     <br>
   </a>
@@ -52,16 +52,7 @@
   </a>
 </p>
 
-<p align="center">Feel free to reach out to me through these channels!</p>
-
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Programming GIF" width="400" height="400" style="margin-left: 70px;">
   <img src="https://media.giphy.com/media/dBlZwFc1QjzXseX7aT/giphy.gif" alt="Programming GIF" width="400" height="400" style="margin-right: 70px;">
 </p>
-
-
-
-
-
-
-
