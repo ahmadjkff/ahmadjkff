@@ -55,7 +55,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Programming GIF" width="400" height="400" style="margin-left: 70px;">
-  <img src="https://media.giphy.com/media/dBlZwFc1QjzXseX7aT/giphy.gif" alt="Programming GIF" width="400" height="400" style="margin-right: 40px;">
+  <img src="https://media.giphy.com/media/dBlZwFc1QjzXseX7aT/giphy.gif" alt="Programming GIF" width="400" height="400" style="margin-right: 70px;">
 </p>
 
 
