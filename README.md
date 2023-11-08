@@ -53,11 +53,11 @@
 
 <p align="center">Feel free to reach out to me through these channels!</p>
 
-<p align="left">
+<p align="center">
   <img src="https://media.giphy.com/media/dBlZwFc1QjzXseX7aT/giphy.gif" alt="Programming GIF">
 </p>
 
-<p align="right">
+<p align="center">
   <a href="https://giphy.com/gifs/FullBrain-code-coding-programmer-dBlZwFc1QjzXseX7aT">via GIPHY</a>
 </p>
 
