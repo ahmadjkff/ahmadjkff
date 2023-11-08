@@ -53,17 +53,10 @@
 
 <p align="center">Feel free to reach out to me through these channels!</p>
 
-<div style="display: flex; justify-content: space-between;">
-  <!-- First GIF on the left with reduced dimensions -->
-  <div>
-    <img src="https://media.giphy.com/media/dBlZwFc1QjzXseX7aT/giphy.gif" alt="Programming GIF" width="200" height="200">
-  </div>
-
-  <!-- Second GIF on the right with reduced dimensions -->
-  <div>
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Programming GIF" width="200" height="200">
-  </div>
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/dBlZwFc1QjzXseX7aT/giphy.gif" alt="Programming GIF" width="200" height="200">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Programming GIF" width="200" height="200">
+</p>
 
 
 
