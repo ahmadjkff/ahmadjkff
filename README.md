@@ -53,7 +53,6 @@
 
 <p align="center">Feel free to reach out to me through these channels!</p>
 
-<!-- Add a programming-related GIF below -->
 <p align="center">
-  <img src=""https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC"></a></p>" alt="Programming GIF">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Programming GIF">
 </p>
