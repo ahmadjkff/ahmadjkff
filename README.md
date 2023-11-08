@@ -54,9 +54,10 @@
 <p align="center">Feel free to reach out to me through these channels!</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/dBlZwFc1QjzXseX7aT/giphy.gif" alt="Programming GIF" width="300" height="300">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Programming GIF" width="300" height="300">
+  <img src="https://media.giphy.com/media/dBlZwFc1QjzXseX7aT/giphy.gif" alt="Programming GIF" width="300" height="300" style="margin-right: 20px;">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Programming GIF" width="300" height="300" style="margin-left: 20px;">
 </p>
+
 
 
 
