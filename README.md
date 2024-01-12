@@ -33,6 +33,11 @@
 
 <p align="center">Let's connect and learn together!</p>
 
+ <div align="center">
+  <h2>📫 Get in Touch</h2>
+
+  <p>Let's connect and learn together!</p>
+
   <a href="mailto:ahmadjkff1@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
   </a>
@@ -45,7 +50,8 @@
   <a href="https://api.whatsapp.com/send?phone=+962799635582&text=.">
     <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp" alt="WhatsApp">
   </a>
-</p>
+</div>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Programming GIF" width="400" height="400" style="margin-left: 70px;">
