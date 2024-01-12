@@ -29,10 +29,6 @@
 
 <p align="center">Stay tuned for my upcoming creations!</p>
 
-<h2 align="center">📫 Get in Touch</h2>
-
-<p align="center">Let's connect and learn together!</p>
-
  <div align="center">
   <h2>📫 Get in Touch</h2>
 
