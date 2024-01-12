@@ -39,10 +39,10 @@
   <a href="https://instagram.com/ahmadjkff?igshid=ajMyZWVucnM2M21o">
     <img src="https://img.shields.io/badge/Instagram-Follow-blue?style=for-the-badge&logo=instagram" alt="Instagram">
   </a>
-  <a href="wa.me/971567510918">
+  <a href="[wa.me/971567510918](https://w.app/vWjRGl)">
     <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp" alt="WhatsApp">
   </a>
-  <a href="wa.me/962799635582">
+  <a href="[wa.me/962799635582](https://w.app/2bz7Cc)">
     <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp" alt="WhatsApp">
   </a>
 </p>
