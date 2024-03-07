@@ -17,7 +17,7 @@
 <p align="center">I'm actively learning and honing my skills:</p>
 
 <ul align="center">
-  <li><strong>C#</strong>: Mastering the art of web development.</li>
+  <li><strong>C#</strong>: Mastering the art of visual programming.</li>
 </ul>
 
 <h2 align="center">🚀 My Projects</h2>
