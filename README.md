@@ -21,7 +21,7 @@
 </ul>
 
 <h2 align="center">🚀 My Projects</h2>
-<p align="center">I'm don't have any big projects yet, but I'm working on it 💪</p>
+<p align="center">I don't have any big projects yet, but I'm working on it 💪</p>
 
 <p align="center">I'm excited to start building projects soon!</p>
 
