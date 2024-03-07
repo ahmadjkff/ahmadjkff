@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Ahmad Alfakori! 👋</h1>
 
-<p align="center">I'm a student at JUST University (https://www.just.edu.jo/) and a beginner software enthusiast. I'm currently learning <strong>JavaScript, HTML, CSS, Git, and GitHub</strong> while having proficiency in <strong>C++, Java, Python</strong>. I'm on a journey to expand my skills and knowledge.</p>
+<p align="center">I'm a student at JUST University https://www.just.edu.jo/ and a beginner software enthusiast. I'm currently learning <strong>JavaScript, HTML, CSS, Git, and GitHub</strong> while having proficiency in <strong>C++, Java, Python</strong>. I'm on a journey to expand my skills and knowledge.</p>
 
 <h2 align="center">💻 Technologies & Tools</h2>
 
