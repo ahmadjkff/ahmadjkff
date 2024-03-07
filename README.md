@@ -9,7 +9,7 @@
 <ul align="center">
   <li>Programming Languages: C++, Java, Python</li>
   <li>Web Development: <strong>JavaScript, HTML, CSS</strong></li>
-  <li>Version Control: <strong>Git</strong></li>
+  <li>Version Control: <strong>Git & Github</strong></li>
 </ul>
 
 <h2 align="center">🌱 I'm Currently Learning</h2>
@@ -17,9 +17,7 @@
 <p align="center">I'm actively learning and honing my skills:</p>
 
 <ul align="center">
-  <li><strong>JavaScript</strong>: Mastering the art of web development.</li>
-  <li><strong>HTML & CSS</strong>: Building the foundation of the web.</li>
-  <li><strong>Git & GitHub</strong>: Becoming a version control pro.</li>
+  <li><strong>C#</strong>: Mastering the art of web development.</li>
 </ul>
 
 <h2 align="center">🚀 My Projects</h2>
